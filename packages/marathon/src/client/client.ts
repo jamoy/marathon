@@ -1,1 +1,1 @@
-// create a client for specific users
+// create an api client for specific users
